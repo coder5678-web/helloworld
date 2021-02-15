@@ -1,2 +1,2 @@
-结构动力学笔记
+leave away the sbs ,plz ,forever.
 
