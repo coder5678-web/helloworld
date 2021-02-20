@@ -16,15 +16,15 @@ $\sum_{n=1}^{\infty}b_n$收敛，$a_n$单调有界，则$\sum_{n=1}^{\infty}{a_i
 
 狄利克雷判别法:
 
-\(如果B_i有界,a_n单调趋于0，则\sum_{i=1}^m{a_i}{b_i}收敛\)
+$如果B_i有界,a_n单调趋于0，则\sum_{i=1}^m{a_i}{b_i}收敛$
 
 阿贝尔引理:
 
-\((如果a_i都不递增或都不递减，而和B_i都以数L为上界：|B_i|\leq L)\rightarrow|\sum_{i=1}^m{a_i}{b_i}|\leq L(|a_1|+2|a_m|)\)
+$(如果a_i都不递增或都不递减，而和B_i都以数L为上界：|B_i|\leq L)\rightarrow|\sum_{i=1}^m{a_i}{b_i}|\leq L(|a_1|+2|a_m|)$
 
 阿贝尔变换:
 
-\(\sum_{i=1}^m{a_i}{b_i}=a_mB_m-\sum_{i=1}^{m-1}{(a_{i+1}-a_i)B_i}\)
+$\sum_{i=1}^m{a_i}{b_i}=a_mB_m-\sum_{i=1}^{m-1}{(a_{i+1}-a_i)B_i}$
 
  
 
