@@ -10,3 +10,6 @@ $(如果a_i都不递增或都不递减，而和B_i都以数L为上界：|B_i|\le
 $\sum_{i=1}^m{a_i}{b_i}=a_mB_m-\sum_{i=1}^{m-1}{(a_{i+1}-a_i)B_i}$
 柯西施瓦茨不等式
 $\left( \sum_{k=1}^n a_k b_k \right)^{2}\leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$
+fourier series:
+于$[0,pi]$上展开到$[-pi,pi]$上的迅速收敛级数$r(x)$为$2k-1$次多项式：$r(0)=f(0),r'(0)=f'(0),\dots,r^{(k-1)}(0)=f^{(k-1)}(0)$
+$r(-pi)=f(pi),r'(-pi)=f'(pi),\dots,r^{(k-1)}(-pi)=f^{(k-1)}(pi)$
