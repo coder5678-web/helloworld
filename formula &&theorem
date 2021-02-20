@@ -12,7 +12,9 @@ $\sum_{i=1}^m{a_i}{b_i}=a_mB_m-\sum_{i=1}^{m-1}{(a_{i+1}-a_i)B_i}$
 $\left( \sum_{k=1}^n a_k b_k \right)^{2}\leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$
 
 $g(x)=\sum_{n=1}^{\infty}{\frac{A_n}{n}}\cos{nx}$
-$\sum_{n=1}^{\infty}{\frac{sinnz}{n}}=$
-$\begin{cases}ax^2+bx^2+c\grave{a}x^2+bx^2+c\\a>0>\grave{a}\end{cases}$
+$\sum_{n=1}^{\infty}{\frac{sinnz}{n}}=\begin{cases}ax^2+bx^2+c\grave{a}x^2+bx^2+c\\a>0>\grave{a}\end{cases}$
 
-
+$\begin{cases}
+asdf & =88\\
+asd & =6
+\end{cases}$
