@@ -10,4 +10,4 @@ $(如果a_i都不递增或都不递减，而和B_i都以数L为上界：|B_i|\le
 $\sum_{i=1}^m{a_i}{b_i}=a_mB_m-\sum_{i=1}^{m-1}{(a_{i+1}-a_i)B_i}$
 柯西施瓦茨不等式
 $\left( \sum_{k=1}^n a_k b_k \right)^{2}\leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$
-$g(x)=\sum_{n=1}^{\infty}{\frac{A_n}{n}cosnx
+$g(x)=\sum_{n=1}^{\infty}{\frac{A_n}{n}cosnx$
