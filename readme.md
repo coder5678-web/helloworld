@@ -1,2 +1,1 @@
-\（helloworld\)
-$helloworld$
+less words more do 
