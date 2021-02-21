@@ -15,3 +15,4 @@ $g(x)=\sum_{n=1}^{\infty}{\frac{A_n}{n}}\cos{nx}$
 $\sum_{n=1}^{\infty}{\frac{sinnz}{n}}=\begin{cases}ax^2+bx^2+c\grave{a}x^2+bx^2+c\\a>0>\grave{a}\end{cases}$
 
 $\begin{cases}asdf=88\\asd=6\end{cases}$
+${\displaystyle \intop_{0}^{\infty}\frac{\sin At}{t}dt=\frac{\pi}{2}}$
