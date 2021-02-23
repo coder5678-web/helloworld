@@ -24,4 +24,4 @@ if x is transitive set , then $x^+=x\cup \{x\}$ is transitive set.
 if set x is transitive and well-ordering of  $\in$   x is ordinal.
 $x\ is\ ts \rightarrow \cap x^+=x$
 $x\ is\ ordinal \rightarrow x^+ is ordinal$
-$\omega \text {(natural number set)} is ordinal , \forall a\ \in \omega\ is\ ordinal. $
+$\omega \text {(natural number set) is ordinal ,} \forall a\ \in \omega\ \text{is ordinal.} $
