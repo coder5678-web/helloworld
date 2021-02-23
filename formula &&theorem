@@ -22,5 +22,5 @@ $F(x)=\frac{1}{\pi}\intop_{0}^{+\infty}dz\intop_{-\infty}^{+\infty}f(u)\cos z(u-
 if x is transitive set , then $x^+=x\cup \{x\}$ is transitive set.
 if set x is transitive and well-ordering of  $\in$   x is ordinal.
 $x\ is\ ts \rightarrow \cup x^+=x$
-$\text{x is ordinal} \rightarrow x^+ is ordinal$
+$\text{x is ordinal} \rightarrow x^+ \text {is ordinal}$
 $\omega \text {(natural number set) is ordinal ,} \forall a\ \in \omega\ \text{is ordinal.} $
