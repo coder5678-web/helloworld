@@ -1,2 +1,2 @@
-less words more work
+less words more work\n
 你见过外星人吗？婚宴上，老头们喝酒吃菜。酒后说了句，我要回去了，一下子就不见人了。
