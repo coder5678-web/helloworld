@@ -14,7 +14,7 @@ $g(x)=\sum_{n=1}^{\infty}{\frac{A_n}{n}}\cos{nx}$
 ${\displaystyle \sum_{n=1}^{\infty}\frac {\sin nz}{n}=\begin{cases} \frac {\pi-x}{2} (0<x<2\pi)  \\ -\frac {\pi-x}{2}(-2\pi<x<0)\end{cases}}$
 Fourier transform:
 $F(z)=\frac{1}{\sqrt{2\pi}}\intop_{-\infty}^{+\infty}f(u)e^{izu}du$
-f(x)=\frac{1}{\sqrt{2\pi}}\intop_{-\infty}^{+\infty}F(z)e^{-izx}dz$
+$f(x)=\frac{1}{\sqrt{2\pi}}\intop_{-\infty}^{+\infty}F(z)e^{-izx}dz$
 $\begin{cases}asdf=88\\asd=6\end{cases}$
 $ \intop_{0}^{\infty}\frac{\sin At}{t}dt=\frac{\pi}{2}$
 Fourier integration
