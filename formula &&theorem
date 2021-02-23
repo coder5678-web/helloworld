@@ -1,5 +1,5 @@
 $\frac{1}{2}+\sum^n_{i=1}cosih=\frac{sin(n+\frac{1}{2})h}{2sin{\frac{1}{2}h}}$
-$\sum_{n=1}^{\infty}{a_i}{b_i} is real series $
+$\sum_{n=1}^{\infty}{a_i}{b_i}$ is real series 
 Abel test:
 $\sum_{n=1}^{\infty}b_n$ converge,$a_n$ is bounded and monotonic,$\sum_{n=1}^{\infty}{a_i}{b_i}$ converge
 Dirichlet test:
@@ -19,4 +19,6 @@ $\begin{cases}asdf=88\\asd=6\end{cases}$
 $ \intop_{0}^{\infty}\frac{\sin At}{t}dt=\frac{\pi}{2}$
 fourier integration
 $F(x)=\frac{1}{\pi}\intop_{0}^{+\infty}dz\intop_{-\infty}^{+\infty}f(u)\cos z(u-x)du=\frac{1}{2\pi}\intop_{-\infty}^{+\infty}dz\intop_{-\infty}^{+\infty}f(u)\cos z(u-x)du$
-if x is transitive set , then $x^+=x\cup \{x\}$ is transitive set.\\if set x is transitive and well-ordering of  $\in$  then x is ordinal.
+if x is transitive set , then $x^+=x\cup \{x\}$ is transitive set.
+if set x is transitive and well-ordering of  $\in$   x is ordinal.
+$\cap x^+=x$
