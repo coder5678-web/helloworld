@@ -1,24 +1,24 @@
-$\frac{1}{2}+\Sigma^n_{i=1}cosih=\frac{sin(n+\frac{1}{2})h}{2sin{\frac{1}{2}h}}$
-$\sum_{n=1}^{\infty}{a_i}{b_i}$为实数级数
-阿贝尔判别法:
-$\sum_{n=1}^{\infty}b_n$收敛，$a_n$单调有界，则$\sum_{n=1}^{\infty}{a_i}{b_i}$收敛
-狄利克雷判别法:
-$如果B_i有界,a_n单调趋于0，则\sum_{i=1}^m{a_i}{b_i}收敛$
-Abel lemma:
-$(如果a_i都不递增或都不递减，而和B_i都以数L为上界：|B_i|\leq L)\rightarrow|\sum_{i=1}^m{a_i}{b_i}|\leq L(|a_1|+2|a_m|)$
-Abel tranform:
-$\sum_{i=1}^m{a_i}{b_i}=a_mB_m-\sum_{i=1}^{m-1}{(a_{i+1}-a_i)B_i}$
-
- Cauchy Schwartz inequality：
-$\left( \sum_{k=1}^n a_k b_k \right)^{2}\leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$
-
-$g(x)=\sum_{n=1}^{\infty}{\frac{A_n}{n}}\cos{nx}$
-${\displaystyle \sum_{n=1}^{\infty}{\frac{sinnz}{n}}=\begin{cases}\frac{\pi-x}{2}(0<x<2pi)\\-\frac{\pi-x}{2}(-2\pi<x<0)\end{cases}}$
-
-fourier transform：
-$F(z)=\frac{1}{\sqrt{2\pi}}\intop_{-\infty}^{+\infty}f(u)e^{izu}du;f(x)=\frac{1}{\sqrt{2\pi}}\intop_{-\infty}^{+\infty}F(z)e^{-izx}dz$ 
-
-$\begin{cases}asdf=88\\asd=6\end{cases}$
-$ \intop_{0}^{\infty}\frac{\sin At}{t}dt=\frac{\pi}{2}$
-fourier integration
-$F(x)=\frac{1}{\pi}\intop_{0}^{+\infty}dz\intop_{-\infty}^{+\infty}f(u)\cos z(u-x)du=\frac{1}{2\pi}\intop_{-\infty}^{+\infty}dz\intop_{-\infty}^{+\infty}f(u)\cos z(u-x)du$ 
+\begin {document}
+$\frac{1}{2}+\sum^n_{i=1}cosih=\frac{sin(n+\frac{1}{2})h}{2sin{\frac{1}{2}h}}$\\
+$\sum_{n=1}^{\infty}{a_i}{b_i} is real series $\\
+Abel test:\\
+$\sum_{n=1}^{\infty}b_n$ converge,$a_n$ is bounded and monotonic,$\sum_{n=1}^{\infty}{a_i}{b_i}$ converge\\
+Dirichlet test:\\
+if $B_i $is bounded ,$a_n$  monotonicly  change to 0，then $\sum_{i=1}^m{a_i}{b_i} $converge \\
+Abel lemma:\\
+if $a_i$ is  monotonic,and $B_i$ is bounded to L $\rightarrow|\sum_{i=1}^m{a_i}{b_i}|\leq L(|a_1|+2|a_m|)$\\
+Abel tranform:\\
+$\sum_{i=1}^m{a_i}{b_i}=a_mB_m-\sum_{i=1}^{m-1}{(a_{i+1}-a_i)B_i}$\\
+Cauchy Schwartz inequality:
+$\left( \sum_{k=1}^n a_k b_k \right)^{2}\leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$\\
+$g(x)=\sum_{n=1}^{\infty}{\frac{A_n}{n}}\cos{nx}$\\
+%\begin{equation*}
+${\displaystyle \sum_{n=1}^{\infty}\frac {\sin nz}{n}=\begin{cases} \frac {\pi-x}{2} (0<x<2\pi)  \\ -\frac {\pi-x}{2}(-2\pi<x<0)\end{cases}}$\\
+%\end{equation*}
+fourier transform:\\
+$F(z)=\frac{1}{\sqrt{2\pi}}\intop_{-\infty}^{+\infty}f(u)e^{izu}du;f(x)=\frac{1}{\sqrt{2\pi}}\intop_{-\infty}^{+\infty}F(z)e^{-izx}dz$\\
+$\begin{cases}asdf=88\\asd=6\end{cases}$\\
+$ \intop_{0}^{\infty}\frac{\sin At}{t}dt=\frac{\pi}{2}$\\
+fourier integration\\
+$F(x)=\frac{1}{\pi}\intop_{0}^{+\infty}dz\intop_{-\infty}^{+\infty}f(u)\cos z(u-x)du=\frac{1}{2\pi}\intop_{-\infty}^{+\infty}dz\intop_{-\infty}^{+\infty}f(u)\cos z(u-x)du$\\
+if x is transitive set , then $x^+=x\cup \{x\}$ is transitive set.\\if set x is transitive and well-ordering of  $\in$  then x is ordinal.
