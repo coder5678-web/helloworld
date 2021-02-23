@@ -18,17 +18,4 @@ ${\displaystyle \sum_{n=1}^{\infty}{\frac{sinnz}{n}}=\begin{cases}\frac{\pi-x}{2
 $F(z)=\int$
 $\begin{cases}asdf=88\\asd=6\end{cases}$
 $ \intop_{0}^{\infty}\frac{\sin At}{t}dt=\frac{\pi}{2}$
-\begin{tabular}{|c|c|c|c|c|}
-\hline
- &  &  &  & \tabularnewline
-\hline
-\hline
- &  &  &  & \tabularnewline
-\hline
- &  &  &  & \tabularnewline
-\hline
- &  &  &  & \tabularnewline
-\hline
- &  &  &  & \tabularnewline
-\hline
-\end{tabular}
+$F(x)=\frac{1}{\pi}\intop_{0}^{+\infty}dz\intop_{-\infty}^{+\infty}f(u)\cos z(u-x)du=\frac{1}{2\pi}\intop_{-\infty}^{+\infty}dz\intop_{-\infty}^{+\infty}f(u)\cos z(u-x)du$ 
