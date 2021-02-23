@@ -22,6 +22,6 @@ Fourier integration
 $F(x)=\frac{1}{\pi}\intop_{0}^{+\infty}dz\intop_{-\infty}^{+\infty}f(u)\cos z(u-x)du=\frac{1}{2\pi}\intop_{-\infty}^{+\infty}dz\intop_{-\infty}^{+\infty}f(u)\cos z(u-x)du$
 if x is transitive set , then $x^+=x\cup \{x\}$ is transitive set.
 if set x is transitive and well-ordering of  $\in$   x is ordinal.
-$x\ is\ ts \rightarrow \cap x^+=x$
-$x\ is\ ordinal \rightarrow x^+ is ordinal$
+$x\ is\ ts \rightarrow \cup x^+=x$
+$\text{x is ordinal} \rightarrow x^+ is ordinal$
 $\omega \text {(natural number set) is ordinal ,} \forall a\ \in \omega\ \text{is ordinal.} $
