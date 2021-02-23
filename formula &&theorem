@@ -13,13 +13,15 @@ $\left( \sum_{k=1}^n a_k b_k \right)^{2}\leq \left( \sum_{k=1}^n a_k^2 \right) \
 $g(x)=\sum_{n=1}^{\infty}{\frac{A_n}{n}}\cos{nx}$
 ${\displaystyle \sum_{n=1}^{\infty}\frac {\sin nz}{n}=\begin{cases} \frac {\pi-x}{2} (0<x<2\pi)  \\ -\frac {\pi-x}{2}(-2\pi<x<0)\end{cases}}$
 %\end{equation*}
-fourier transform:
-$F(z)=\frac{1}{\sqrt{2\pi}}\intop_{-\infty}^{+\infty}f(u)e^{izu}du;f(x)=\frac{1}{\sqrt{2\pi}}\intop_{-\infty}^{+\infty}F(z)e^{-izx}dz$
+Fourier transform:
+$F(z)=\frac{1}{\sqrt{2\pi}}\intop_{-\infty}^{+\infty}f(u)e^{izu}du
+f(x)=\frac{1}{\sqrt{2\pi}}\intop_{-\infty}^{+\infty}F(z)e^{-izx}dz$
 $\begin{cases}asdf=88\\asd=6\end{cases}$
 $ \intop_{0}^{\infty}\frac{\sin At}{t}dt=\frac{\pi}{2}$
-fourier integration
+Fourier integration
 $F(x)=\frac{1}{\pi}\intop_{0}^{+\infty}dz\intop_{-\infty}^{+\infty}f(u)\cos z(u-x)du=\frac{1}{2\pi}\intop_{-\infty}^{+\infty}dz\intop_{-\infty}^{+\infty}f(u)\cos z(u-x)du$
 if x is transitive set , then $x^+=x\cup \{x\}$ is transitive set.
 if set x is transitive and well-ordering of  $\in$   x is ordinal.
 $x\ is\ ts \rightarrow \cap x^+=x$
-
+$x\ is\ ordinal \rightarrow x^+ is ordinal$
+$\omega \text {(natural number set)} is ordinal , \forall a\in \omega is ordinal $
